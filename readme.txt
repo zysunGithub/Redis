@@ -1,1 +1,2 @@
 Redis for test
+初衷是一步步剖析redis源码，由框架到功能一步步简化redis方便理解与学习
